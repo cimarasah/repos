@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cimarasah.CC.WebApi", "Cimarasah.CC.WebApi\Cimarasah.CC.WebApi.csproj", "{6808F88E-9569-4A95-A599-78D165746677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cimarasah.CC.IoC", "Cimarasah.CC.IoC\Cimarasah.CC.IoC.csproj", "{A93EB511-115E-4C31-8966-FE122665FC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6808F88E-9569-4A95-A599-78D165746677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6808F88E-9569-4A95-A599-78D165746677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6808F88E-9569-4A95-A599-78D165746677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6808F88E-9569-4A95-A599-78D165746677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A93EB511-115E-4C31-8966-FE122665FC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93EB511-115E-4C31-8966-FE122665FC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93EB511-115E-4C31-8966-FE122665FC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93EB511-115E-4C31-8966-FE122665FC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {321FF4D1-CE7E-4051-92AE-1366A65ABD72}
+	EndGlobalSection
+EndGlobal

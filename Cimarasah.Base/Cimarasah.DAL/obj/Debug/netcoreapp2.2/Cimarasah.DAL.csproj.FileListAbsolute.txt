@@ -1,0 +1,10 @@
+C:\Users\cimarasah\source\repos\Cimarasah.Base\Cimarasah.DAL\bin\Debug\netcoreapp2.2\Cimarasah.DAL.deps.json
+C:\Users\cimarasah\source\repos\Cimarasah.Base\Cimarasah.DAL\bin\Debug\netcoreapp2.2\Cimarasah.DAL.runtimeconfig.json
+C:\Users\cimarasah\source\repos\Cimarasah.Base\Cimarasah.DAL\bin\Debug\netcoreapp2.2\Cimarasah.DAL.runtimeconfig.dev.json
+C:\Users\cimarasah\source\repos\Cimarasah.Base\Cimarasah.DAL\bin\Debug\netcoreapp2.2\Cimarasah.DAL.dll
+C:\Users\cimarasah\source\repos\Cimarasah.Base\Cimarasah.DAL\bin\Debug\netcoreapp2.2\Cimarasah.DAL.pdb
+C:\Users\cimarasah\source\repos\Cimarasah.Base\Cimarasah.DAL\obj\Debug\netcoreapp2.2\Cimarasah.DAL.csproj.CoreCompileInputs.cache
+C:\Users\cimarasah\source\repos\Cimarasah.Base\Cimarasah.DAL\obj\Debug\netcoreapp2.2\Cimarasah.DAL.AssemblyInfoInputs.cache
+C:\Users\cimarasah\source\repos\Cimarasah.Base\Cimarasah.DAL\obj\Debug\netcoreapp2.2\Cimarasah.DAL.AssemblyInfo.cs
+C:\Users\cimarasah\source\repos\Cimarasah.Base\Cimarasah.DAL\obj\Debug\netcoreapp2.2\Cimarasah.DAL.dll
+C:\Users\cimarasah\source\repos\Cimarasah.Base\Cimarasah.DAL\obj\Debug\netcoreapp2.2\Cimarasah.DAL.pdb
